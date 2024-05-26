@@ -11,7 +11,7 @@ Analyzed Fit bit fitness tracker data to deliver marketing & and business soluti
 4. [Data](#data)
 5. [Analysis](#analysis)
 6. [Results](#results)
-7. [Repository Structure](#repository-structure)
+
 
 
 ## Project Overview
@@ -39,11 +39,6 @@ The analysis is divided into three main tasks:
 
 ## Results
 The results of the analysis can be found in the `Final project-MS Excel zip` file.
-
-## Repository Structure
-- `data/`: Contains the Fitbit tracker data file.
-- `reports/`: Contains the final project report.
-- `README.md`: Project overview and documentation.
 
 ## How to Access the Excel File
 1. Open the following Google Drive link: [Google Drive Link to Excel File](https://drive.google.com/file/d/1mm5Moul9aPQ7szKxL6yS3g7NMaYO1UdO/view?usp=sharing)

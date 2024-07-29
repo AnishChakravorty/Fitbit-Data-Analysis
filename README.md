@@ -35,7 +35,7 @@ The analysis is divided into three main tasks:
 1. Identifying potential customers for LeanFit.
 2. Identifying potential customers for FitWear.
 3. Identifying potential customers for Sleepy-Nights.
-4. Creating a dashboard for management presentation.
+4. Creating a Report for management presentation.
 
 ## Results
 The results of the analysis can be found in the `Final project-MS Excel zip` file.
